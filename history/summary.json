@@ -1,22 +1,22 @@
 [
   {
     "name": "Frontend",
-    "url": "https://mail.pembe.io",
+    "url": "http://mail.pembe.io",
     "icon": "https://favicons.githubusercontent.com/mail.pembe.io",
     "slug": "frontend",
-    "status": "down",
-    "uptime": "11.35%",
-    "uptimeDay": "11.35%",
-    "uptimeWeek": "11.35%",
-    "uptimeMonth": "11.35%",
-    "uptimeYear": "11.35%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.27%",
+    "uptimeDay": "1.27%",
+    "uptimeWeek": "1.27%",
+    "uptimeMonth": "1.27%",
+    "uptimeYear": "1.27%",
+    "time": 324,
+    "timeDay": 324,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2021-11-17": 0
+      "2021-11-17": 5
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 410,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   }
 ]
